@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Vipul Singh
-- 👀 I’m interested in technology driven solutions
-- 🌱 I’m currently learning use of AI and ML in Material Science
-- 💞️ I’m looking to collaborate on Github with the world
 
 
 <!---
